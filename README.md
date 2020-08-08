@@ -1,4 +1,6 @@
 # Geth-Blockchain
+Proof of Authority Ethereum blockchain created using Geth and Puppeth tooling. Consists of two nodes, where one connects applications such as MyCrypto Wallet to retreive balance and send transactions.
+
 # Proof of Authority Blockchain
 
 ## Environment Setup and Dependencies
